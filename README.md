@@ -1,8 +1,8 @@
-#Project Title: Untitled
+# Project Title: Untitled
 
-#Project Topic: Agent
+# Project Topic: Agent
 
-#Team Name: Talos
+# Team Name: Talos
 - Mackenzie Goode
 - Deepak Verghese
 - Jorge Esparaza
@@ -10,16 +10,16 @@
 - Lincoln Upton
 - Ty King
 
-#Background
+# Background
 
-#General Approach
+# General Approach
 
-#Milestones
+# Milestones
 
-#Data Source(s)
+# Data Source(s)
 
-#Evaluation Plan(s)
+# Evaluation Plan(s)
 
-#Stretch Goals
+# Stretch Goals
 
-#References
+# References
